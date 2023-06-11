@@ -1,2 +1,2 @@
-# pretrained efficientnet and Inceptionv3 and cnn architecture
-# Plant leaf disease detection
+# Pretrained Models Efficientnet and Inceptionv3 and CNN Architecture
+# Plant Leaf Disease Detection(Apple,cucumber,Potato,paddy)
